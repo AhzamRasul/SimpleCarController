@@ -33,7 +33,7 @@ Contributions to the Simple Car Controller are welcome! If you have any ideas, i
 
 ## License
 
- Feel free to use this code in your own projects, both personal and commercial. However, please provide attribution by linking back to this repository.
+ Feel free to use this code in your projects, both personal and commercial. However, please provide attribution by linking back to this repository.
 
 ## Acknowledgements
 
@@ -41,4 +41,4 @@ The Simple Car Controller is built upon the "Arcade Car" package, created by [Un
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me at [your-email@example.com](mailto:rasoolahzam@gmail.com). Thank you for your interest in the Simple Car Controller!
+If you have any questions or suggestions, feel free to reach out to me at ahzamrasul@outlook.com. Thank you for your interest in the Simple Car Controller!
