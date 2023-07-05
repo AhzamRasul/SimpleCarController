@@ -19,11 +19,11 @@ To use the Simple Car Controller, follow these steps:
 9. Create an empty GameObject named "Wheel Collider" and add Wheel Colliders to each of the car's wheels. Place the Wheel Collider GameObject in the correct position relative to the wheels.
 10. Create two new scripts: "CarController" (to be added to the car) and "CameraFollow" (to be added to the camera).
 11. Attach the "CarController" script to the car GameObject and the "CameraFollow" script to the camera.
-12. Customize the car's behavior and camera settings in the corresponding scripts, if desired.
+12. Customize the car's behaviour and camera settings in the corresponding scripts, if desired.
 
 ## Usage
 
-The Simple Car Controller provides basic car movement and control for your Unity game. Use the arrow keys or WASD keys to steer the car and accelerate or decelerate. The camera will follow the car's movement, providing a dynamic perspective.
+The Simple Car Controller provides basic car movement and control for your Unity game. Use the arrow keys or WASD keys to steer the car and accelerate or decelerate. Use a spacebar for  hard braking. The camera will follow the car's movement, providing a dynamic perspective.
 
 Feel free to modify the provided scripts and experiment with different settings to suit your specific project requirements. The car controller is a starting point that can be expanded upon to create more complex and realistic driving experiences.
 
@@ -33,7 +33,7 @@ Contributions to the Simple Car Controller are welcome! If you have any ideas, i
 
 ## License
 
-The Simple Car Controller is released under the [MIT License](LICENSE.md). Feel free to use this code in your own projects, both personal and commercial. However, please provide attribution by linking back to this repository.
+ Feel free to use this code in your own projects, both personal and commercial. However, please provide attribution by linking back to this repository.
 
 ## Acknowledgements
 
@@ -41,4 +41,4 @@ The Simple Car Controller is built upon the "Arcade Car" package, created by [Un
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com). Thank you for your interest in the Simple Car Controller!
+If you have any questions or suggestions, feel free to reach out to me at [your-email@example.com](mailto:rasoolahzam@gmail.com). Thank you for your interest in the Simple Car Controller!
